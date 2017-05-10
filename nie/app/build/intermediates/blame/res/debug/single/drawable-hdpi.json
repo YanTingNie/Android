@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Data\\Android\\AndroidStudio\\nie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_app.png",
+        "source": "D:\\Data\\Android\\AndroidStudio\\nie\\app\\src\\main\\res\\drawable-hdpi\\icon_app.png"
+    },
+    {
+        "merged": "D:\\Data\\Android\\AndroidStudio\\nie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\new_note_pressed.png",
+        "source": "D:\\Data\\Android\\AndroidStudio\\nie\\app\\src\\main\\res\\drawable-hdpi\\new_note_pressed.png"
+    },
+    {
+        "merged": "D:\\Data\\Android\\AndroidStudio\\nie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\new_note_normal.png",
+        "source": "D:\\Data\\Android\\AndroidStudio\\nie\\app\\src\\main\\res\\drawable-hdpi\\new_note_normal.png"
+    }
+]

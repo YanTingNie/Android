@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Data\\Android\\AndroidStudio\\nie\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Data\\Android\\AndroidStudio\\nie\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Data\\Android\\AndroidStudio\\nie\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_listview.xml",
+        "source": "D:\\Data\\Android\\AndroidStudio\\nie\\app\\src\\main\\res\\layout\\adapter_listview.xml"
+    },
+    {
+        "merged": "D:\\Data\\Android\\AndroidStudio\\nie\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "D:\\Data\\Android\\AndroidStudio\\nie\\app\\src\\main\\res\\layout\\activity_second.xml"
+    }
+]
